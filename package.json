@@ -1,0 +1,11 @@
+{
+  "name": "happy-birthday-template",
+  "version": "1.0.0",
+  "description": "Happy birthday website template, created on 6 August 2021",
+  "main": "index.js",
+  "scripts": {
+    "devserver": "browser-sync start --server  --watch --port='8080' --no-inject-changes"
+  },
+  "author": "Vanza Setia",
+  "license": "ISC"
+}
