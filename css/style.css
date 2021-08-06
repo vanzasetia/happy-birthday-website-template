@@ -468,7 +468,8 @@ p {
 }
 
 .attribution {
-  padding-top: 5rem;
+  padding-top: 10rem;
+  font-size: 0.9rem;
 }
 
 .attribution__description {
