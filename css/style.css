@@ -60,11 +60,12 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background: url("../images/happy-birthday-bg.jpg") no-repeat center center/cover;
+  background: url("../images/happy-birthday-mobile-bg.jpg") no-repeat center center/cover;
   background-color: var(--dark-blue);
   background-blend-mode: overlay;
   padding: 2rem 1rem;
   min-height: 100vh;
+  text-align: center;
   color: var(--white);
   font-family: "Lato", sans-serif;
   font-size: 1.25rem;
@@ -77,10 +78,6 @@ h1 {
 
 p {
   line-height: 1.6;
-}
-
-.main {
-  text-align: center;
 }
 
 .main__title {
@@ -126,6 +123,14 @@ p {
 @media screen and (min-width: 25em) {
   .main__title {
     font-size: 3rem;
+  }
+}
+
+@media screen and (min-width: 40em) {
+  body {
+    background: url("../images/happy-birthday-bg.jpg") no-repeat center center/cover;
+    background-color: var(--dark-blue);
+    background-blend-mode: overlay;
   }
 }
 
