@@ -7,6 +7,9 @@
   <img alt="Netlify" src="https://img.shields.io/netlify/a294022a-90d5-43ca-b443-e32059995a82?style=for-the-badge&logo=netlify">
 </p>
 
+## Screenshot
+![Overview on desktop](./images/overview.jpg)
+
 This is a very simple template. There is already a little bit animation, but you can add more if you want.
 
 You can check the [live review](https://vilihalim.netlify.app/)
